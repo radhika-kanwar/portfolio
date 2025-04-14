@@ -129,8 +129,6 @@ const Journey = () => {
       discussions on the critical importance of coaching in academia.`,
       images: ["/photos/clc1.jpg",
         "/photos/clc2.jpg",
-        "/photos/clc3.jpg",
-        "/photos/clc4.jpg"
       ],
     },
     {
