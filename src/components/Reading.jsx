@@ -40,6 +40,22 @@ const Reading = () => {
   
   const books = [
     {
+      title: "Shatter Me",
+      author: "Tahereh Mafi",
+      review: "An easy, engaging read that kept me hooked from start to finish.",
+      dateRead: "May 2025",
+      cover: "https://m.media-amazon.com/images/I/81VpXyXk4PL._SY522_.jpg",
+      genre: "fiction"
+    },
+    {
+      title: "The Stranger",
+      author: "Albert Camus",
+      review: "A story that began simply, but evolved into something I didn’t expect. I still need time to comprehend the whys and hows of it all.",
+      dateRead: "May 2025",
+      cover: "https://m.media-amazon.com/images/I/617WkdpG8xL._SY522_.jpg",
+      genre: "fiction"
+    },
+    {
       title: "The Mystery of the Blue Train",
       author: "Agatha Christie",
       review: "A book that took me a little time to get interested in but as the story progressed and things were revealed, I enjoyed it.",
@@ -50,7 +66,7 @@ const Reading = () => {
     {
       title: "The Autobiography of a Yogi",
       author: "Paramahansa Yogananda",
-      review: "Reading this book slowly, as it takes a little time to absorb the meaning attached to the words of Yogananda ji.",
+      review: "Forever grateful for the chance to read this book. A slow read, but an amazing one that added a beautiful new perspective to my life.",
       dateRead: "February 2025",
       cover: "https://m.media-amazon.com/images/I/71IDxgWwPoL._SY522_.jpg",
       genre: "non-fiction"
